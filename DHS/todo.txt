@@ -1,0 +1,40 @@
+todo:
+acnt deletion
+
+add img on portfolio index view
+left oriented in container
+
+Pause:
+feedback>>add to port_data
+
+
+Authorization:
+	>1.Registration. User types: client, designer, admin. 
+	>2.Log in/log out.
+	3.Account deletion.
+Client Account:
+	>4.Search your designer (category: Interior designer, sculpture artist, exterior designer etc)
+	>5.See Designer’s portfolio and their previous works 
+	>6.Clients can create their project requirements and post it on the platform.
+	7.Clients can monitor the work progress in realtime of their current project.
+	>8.Clients can see example models of various designers on the platform.
+	>9.Clients can Cancel an appointment.
+Designer Account:
+	>10.Designers will be able to respond to a task by asking a price and giving a required number of days to complete the task.
+	11.They can create  a team for a project with other designers before/after starting a project.
+	12.Sending/receiving files.
+Client/Designer Account:
+	13.communicating with each other through this platform.
+	>14.Both can give  feedback after work is done.
+	15.After accepting a job a bidding system will be available between them.
+	>16.There will be an online consultancy service and a helpline service for both users.
+	>17.Payment method will be available for registration and project's payment.
+Admin Account:
+	18.Admin will verify designers based on their portfolio after registration.
+	>19.Admin will post some Promotional advertisements. For example, users will be redirected to Bergers official website if they want to buy paints.
+	>20.Admin can ban accounts if any user misuse the platform.
+
+
+Junks: [
+11.Designers can make connections with other designers so that after getting a work, if it is not suitable for him/her, he/she can hand over the project to another designer.
+]
