@@ -1,3 +1,3 @@
 # DesignerHiringSystem
 
-Using HTML, PHP, MYSQL
+Using HTML, PHP, MYSQL, Materialize CSS framework, xampp
